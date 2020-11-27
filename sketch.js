@@ -52,7 +52,7 @@ function keyPressed ()
  {
 	
 	
-	 Matter.Body.applyForce(paper.body,paper.body.position,{x:3,y:-4});
+	 Matter.Body.applyForce(paper.body,paper.body.position,{x:85,y:-85});
 	 
 }
 
